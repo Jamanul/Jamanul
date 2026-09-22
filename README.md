@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, express js and node js**
 
-- 📫 How to reach me **jk.skb.25@gmail.com**
+- 📫 How to reach me **jamanul.karim@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vP1uAwFQFou5KpuEsEDq7e4DInr_tAhd/view?usp=sharing](https://drive.google.com/file/d/1vP1uAwFQFou5KpuEsEDq7e4DInr_tAhd/view?usp=sharing)
 
